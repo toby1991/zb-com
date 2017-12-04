@@ -1,0 +1,33 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "zb-com",
+  "scripts": {},
+  "version": "0.0.1",
+  "author": {
+    "name": "Toby Yan"
+  },
+  "bugs": {
+    "url": "https://github.com/toby1991/zb-com/issues"
+  },
+  "description": "Nodejs API wrapper for zb.com",
+  "homepage": "https://github.com/toby1991/zb-com#readme",
+  "keywords": [
+    "ZB",
+    "zb.com",
+    "api",
+    "exchange",
+    "bitcoin",
+    "cyptocurrency"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toby1991/zb-com.git"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "verror": "^1.10.0"
+  }
+}
